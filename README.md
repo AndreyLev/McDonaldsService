@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/AndreyLev/McDonaldsService.svg?branch=master)](https://travis-ci.org/AndreyLev/McDonaldsService)
+[![Build Status](https://travis-ci.org/AndreyLev/McDonaldsService.svg?branch=master)](https://travis-ci.org/AndreyLev/McDonaldsService) [![codecov](https://codecov.io/gh/AndreyLev/McDonaldsService/branch/master/graph/badge.svg)](https://codecov.io/gh/AndreyLev/McDonaldsService)
