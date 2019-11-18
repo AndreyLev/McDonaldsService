@@ -4,7 +4,6 @@ import model.OrderModel;
 import model.ProductModel;
 import repository.CategoryRepository;
 
-
 import java.util.List;
 
 public interface McDonaldsServiceInterface {

@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Optional;
 
-public class ProductRepositoryImpl implements ProductRepository{
+public class ProductRepositoryImpl implements ProductRepository {
 
     private final Collection<ProductModel> items = new LinkedList<>();
     private int nextId = 1;
